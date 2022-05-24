@@ -20,8 +20,7 @@ public class Mavenproject1 {
       String a =num;
       System.out.println(num+"\n");             
       String cod ="SUTPAGMELC";
-      int i=0;
-      int j=0;
+      int i,j;
       String res="";
       
       if(a.length() != lim ){
